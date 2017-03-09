@@ -32,7 +32,3 @@ My goals for this year. 🦁
         - 1k followers
         - Join webcomponents.org
         - Contribute to Polymer Project
-
-## License
-
-[MIT License](https://github.com/afonsopacifer/2017-goals/blob/master/LICENSE.md)
