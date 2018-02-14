@@ -5,22 +5,18 @@ My goals for this year. 🦁
 
 ## Big Goals
 
-- [ ] Hight Stakes Lifestyle
+- [ ] High Stakes Lifestyle
 - [ ] Javascript Client Side Skills
 - [ ] Open Source
 
 ## Mediums
 
-- [ ] Hight Stakes Lifestyle
+- [ ] High Stakes Lifestyle
     - Meditation
     - Organization
     - Health (BioHacking)
     - [Books](books.md)
 - [ ] Platform Evangelism (CSS / HTTP2 / Web components / Service Workers)
-    - CSS
-    
-    - All
-
 - [ ] Javascript Client Side Skills
 - [ ] Open Source
     - Elements Engineer
@@ -28,7 +24,5 @@ My goals for this year. 🦁
     - Big Projects
        
     - Github goals
-        - 1k stars (single project)
-        - 1k followers
         - Join webcomponents.org
         - Contribute to Polymer Project
